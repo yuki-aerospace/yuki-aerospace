@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki-aerospace)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki-aerospace&show=reviews)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki-aerospace&show_icons=true&theme=radical)
